@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:6:5-15:19
+	tools:node
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:6:18-36
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:7:9-9:15
+	android:name
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:7:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:10:9-14:20
+	android:name
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:10:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:11:13-13:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:12:17-86
+	android:name
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml:12:25-76
+uses-sdk
+INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/.pub-cache/hosted/pub.dartlang.org/clone_local_notifications-0.0.3/android/src/main/AndroidManifest.xml

@@ -1,0 +1,29 @@
+{
+  "name": "flutter_youtube_extractor",
+  "version": "0.0.6",
+  "summary": "A new Flutter plugin for getting youtube media link.",
+  "description": "A new Flutter plugin for getting youtube media link.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "XCDYouTubeKit": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}
